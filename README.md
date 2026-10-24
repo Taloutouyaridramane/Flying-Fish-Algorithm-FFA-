@@ -1,4 +1,4 @@
-#Flying-Fish-Algorithm(FFA)#
+#Flying-Fish-Algorithm(FFA)
 
 This is the source code of  Flying Fish Algorithm written in MATLAB.
 
