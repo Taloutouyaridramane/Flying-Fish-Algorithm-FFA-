@@ -23,7 +23,7 @@ The FFA algorithm is summed up in the following highlights.
 
 
 
-The performance of FFA was evaluated using 74 benchmark optimization problems, including unimodal, multimodal, and CEC 2022 test functions, as well as seven engineering design problems. Comparative results with the several popular algorithms (PSO, SHADE, JADE, GWO, HHO, MPA, GOA, SCSO, RIME, SMA, EDO, ECO, and MGO) considered in this study demonstrate that FFA achieves competitive and, often, superior solutions across most test cases. Statistical validation using multiple performance indicators and the Friedman test confirms the robustness and effectiveness of the proposed method. These findings indicate that FFA provides an efficient and reliable optimization framework with potential applicability to real-world engineering optimization problems.
+The performance of FFA was evaluated using 74 benchmark optimization problems, including unimodal, multimodal, and CEC 2022 test functions, as well as seven engineering design problems (PVD, CSD, TBTD, GTD, CBD, WBD and SRD). Comparative results with the several popular algorithms (PSO, SHADE, JADE, GWO, HHO, MPA, GOA, SCSO, RIME, SMA, EDO, ECO, and MGO) considered in this study demonstrate that FFA achieves competitive and, often, superior solutions across most test cases. Statistical validation using multiple performance indicators and the Friedman test confirms the robustness and effectiveness of the proposed method. These findings indicate that FFA provides an efficient and reliable optimization framework with potential applicability to real-world engineering optimization problems.
 
 The paper is available to researchers on request at: djougou1994@gmail.com
 
